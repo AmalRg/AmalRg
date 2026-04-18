@@ -18,16 +18,15 @@ Here are some ideas to get you started:
 # Hi there, I'm Amal! 👋 👩‍💻
 
 ### 🎓 About Me
-* **Software Engineering Student** (2nd year) specializing in **GLID** at IIT Sfax.
+* **Software Engineering Student** specializing in **GLID** at IIT Sfax.
 * 🚀 Passionate about creating high-impact solutions using **Mobile & Web** technologies.
-* 🔍 Currently seeking a **Professional Internship** (Stage de perfectionnement) for Summer 2026.
+* 🔍 Currently seeking a **Professional Internship** for Summer 2026.
 
 ---
 
 ### 🚀 Current Projects
 * **Vision Aid**: 👁️ Enhancing accessibility through Computer Vision (Flutter & ML Kit).
-* **Bus Tracking System**: 🚌 Real-time transit monitoring for SORETRAS (Flutter & Firebase).
-* **Web Ecosystems**: 🌐 Building scalable backends with Spring Boot and Jakarta EE.
+* **Shop Flow**: 🌐 Building scalable backends with Spring Boot and Jakarta EE.
 
 ---
 
@@ -48,8 +47,8 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Let's Connect!
-* 💼 **LinkedIn**: [linkedin.com/in/amal-votre-lien](https://linkedin.com/in/votre-lien-ici)
-* 📧 **Email**: [votre.email@gmail.com]
+* 💼 **LinkedIn**: [linkedin.com/in/amal-votre-lien](www.linkedin.com/in/amalregaieg)
+* 📧 **Email**: [amalregaieg42@@gmail.com]
 * 📍 **Location**: Sfax, Tunisia
 
 ---
