@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Let's Connect!
-* 💼 **LinkedIn**: [www.linkedin.com/in/amalregaieg](www.linkedin.com/in/amalregaieg)
+* 💼 **LinkedIn**: [linkedin.com/in/amalregaieg](https://www.linkedin.com/in/amalregaieg/)
 * 📧 **Email**: [amalregaieg42@@gmail.com]
 * 📍 **Location**: Sfax, Tunisia
 
