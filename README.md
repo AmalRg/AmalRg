@@ -39,3 +39,9 @@
 ### 📊 GitHub Activity
 ![Amal's Stats](https://github-readme-stats.vercel.app/api?username=AmalRg&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalRg&layout=compact&theme=tokyonight)
+
+
+
+![Amal's Stats](https://github-readme-stats.vercel.app/api?username=AmalRg&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalRg&layout=compact&theme=tokyonight&hide=html,css)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmalRg&theme=tokyonight)
