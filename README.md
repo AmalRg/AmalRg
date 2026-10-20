@@ -9,6 +9,7 @@
 
 ### 🔭 I'm currently working on
 * **New AI projects**: 🤖 Exploring Computer Vision (YOLO) and Generative AI (LLMs, RAG) ahead of my AI specialization year.
+* **Idara-Derja AI**: 🤖🇦🇮🧠 Agentic Platform for PFE Defense Management (Python, LangGraph, RAG, LLM)
 * **PulmoAI**: 👨‍💻 Deep learning system for pulmonary disease classification (DenseNet121 + CBAM, Grad-CAM interpretability).
 
 ---
