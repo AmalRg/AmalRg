@@ -26,8 +26,8 @@ jobs:
         continue-on-error: true
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics/languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/languages.svg
           base: ""
           plugin_languages: yes
           plugin_languages_details: percentage
