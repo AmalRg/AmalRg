@@ -5,27 +5,37 @@ on:
   workflow_dispatch:
   push: {branches: ["main", "master"]}
 
+permissions:
+  contents: write
+
 jobs:
   github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: GitHub Stats Overview
+        continue-on-error: true
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics/stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories
+          base: header, activity, community, repositories, metadata
+          config_timezone: Africa/Tunis
 
-      - uses: lowlighter/metrics@latest
+      - name: Top Languages
+        continue-on-error: true
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics/languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
-          plugin_languages_details: bytes, size
+          plugin_languages_details: percentage
+          plugin_languages_layout: compact
 
-      - uses: lowlighter/metrics@latest
+      - name: Contribution Calendar
+        continue-on-error: true
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics/isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
