@@ -2,7 +2,7 @@
 
 ### 🎓 About Me
 - 🚀 **Software Engineering Student** specializing in **AI (Generative AI & Computer Vision)** at IIT Sfax (GLID).
-- 🧠 Passionate about building deployed, production-ready AI systems—bridging advanced research with robust full-stack and DevOps workflows.
+- 🧠 Passionate about building deployed, production-ready AI systems-bridging advanced research with robust full-stack and DevOps workflows.
 - 🔍 Actively seeking a **PFE Internship (2027)** in AI/ML Engineering & Software Development.
 
 ---
